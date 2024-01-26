@@ -1,4 +1,5 @@
-# Logistic Regression Model # 
+# Logistic Regression Model [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) 
+
 [***Logistic Regression***](https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148)
 
 ### logistic regression model and use it for sentiment analysis. ###
